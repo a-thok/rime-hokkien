@@ -78,9 +78,11 @@ speller:
     - derive/ere/e/
     - derive/uI/ui/
     - derive/khIRR/khir/
-    - derive/ing/eng/		#漳南
+    - derive/i(ng|k)/e$1/		#漳南
+    - derive/i(ng|k)/io$1/		#漳南
     - derive/oo/ou/		#漳南
-    - derive/^([ptkblghcjs])?e(\d)$/$1ei$2/		#漳南
+    - derive/^([^eur]*)e(\d?)$/$1ei$2/		#漳南
+    - derive/^([^eur]*)e(\d?)$/$1iei$2/		#漳浦
     - derive/^([a-z]+)\d$/$1/
     - 'xlit 12345678 [/\]90-;'
 
