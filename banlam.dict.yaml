@@ -2037,6 +2037,7 @@ use_preset_vocabulary: false
 頭頭	thau thau
 頭頭仔	thau thau a
 頭起先	thau khi saInn
+頭開始 thau khai si
 頭兮	thau e
 頭銜	thau ham
 頭到	thau kau
@@ -2735,6 +2736,8 @@ use_preset_vocabulary: false
 千	chaInn1
 筅	chaInn2
 先	saInn1
+閒工	aInn kang
+閒時  aInn si
 閒閒	aInn aInn
 閒閒無代誌	aInn aInn bo tai ci
 反來反去	paInn lai paInn khIR
@@ -25670,6 +25673,7 @@ use_preset_vocabulary: false
 各位	kok ui
 各樣	kok iunn
 各个	kok e
+各地  kok te
 閣下	kok ha
 硞落去	kok loh khIR
 康健	khong kian
@@ -32891,13 +32895,13 @@ use_preset_vocabulary: false
 惠州	hui ciu
 梅州	mue ciu
 韶關	siau kuan
-潮洲	tio ciu
+潮州	tio ciu
 汕頭	suann thau
 汕尾	suann ber
 海陸豐	hai liok hong
 海豐	hai hong
 陸豐	liok hong
-潮洲話	tio ciu uee
+潮州話	tio ciu uee
 潮汕	tio suann
 廣西	kuInn sai
 廣西省	kuInn sai sing
@@ -33485,8 +33489,8 @@ use_preset_vocabulary: false
 龍文區	liong bun khu
 龍海	liong hai
 龍海市	liong hai chi
-雲霄	hun sio
-雲霄縣	hun sio kuainn
+雲霄	un sio
+雲霄縣	un sio kuainn
 漳浦	ciunn phoo
 漳浦縣	ciunn phoo kuainn
 詔安	ciau an
