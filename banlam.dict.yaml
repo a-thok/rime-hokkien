@@ -165,7 +165,7 @@ use_preset_vocabulary: false
 蝦	ha5	0%
 瑕	ha5
 縖	ha5
-縖	hah8#漳
+縖	hah8	#漳
 下	ha6	5%
 廈	ha6
 暇	ha6
@@ -817,7 +817,7 @@ use_preset_vocabulary: false
 俳	pai5
 敗	pai7
 歹	phai2	10
-歹	phainn2	10#异
+歹	phainn2	10	#异
 派	phai3
 沛	phai3
 湃	phai3
@@ -1549,7 +1549,7 @@ use_preset_vocabulary: false
 才能	cai ling
 才能	cai lerng
 才女	cai lir
-才女	cai lu#俗
+才女	cai lu	#俗
 才貌	cai bau
 才貌	cai mau
 材料	cai liau
@@ -2871,7 +2871,7 @@ use_preset_vocabulary: false
 緘	kam1
 魽	kam1
 敢	kam2	10
-敢	kiam2#异
+敢	kiam2	#异
 感	kam2	10
 橄	kam2
 𠖫	kam2
@@ -3105,7 +3105,7 @@ use_preset_vocabulary: false
 南天門	lam thian bun
 南區	lam khu
 男女	lam lir
-男女	lam lu#俗
+男女	lam lu	#俗
 男子	lam cur
 男子漢	lam cur han
 男方	lam hong
@@ -3471,7 +3471,7 @@ use_preset_vocabulary: false
 舨	pan2
 八	pat4	5%
 捌	pat4
-捌	bat4#异
+捌	bat4	#异
 瓶	pan5	10
 貧	pan5	0%
 扮	pan7
@@ -4336,7 +4336,7 @@ use_preset_vocabulary: false
 覺	kak4
 菊	kak4
 共	kang7	10
-共	ka7	10#漳
+共	ka7	10	#漳
 仝	kang7	10
 捔	kak8
 空	khang1
@@ -4345,7 +4345,7 @@ use_preset_vocabulary: false
 確	khak4
 殼	khak4
 咯	khak8
-咯	khiak8#异
+咯	khiak8	#异
 樂	gak8
 獄	gak8
 岳	gak8
@@ -5005,22 +5005,22 @@ use_preset_vocabulary: false
 掠	liah8
 寄	kia3
 揭	kiah4
-揭	giah4#异
+揭	giah4	#异
 崎	kia6
 攑	kiah8
-攑	giah8#异
-攑	kah8#泉
+攑	giah8	#异
+攑	kah8	#泉
 屐	kiah8
-屐	kah8#泉
+屐	kah8	#泉
 奇	khia1	1%
-奇	kha1	1%#泉
+奇	kha1	1%	#泉
 隙	khiah4
 騎	khia5
-騎	kha5#泉
+騎	kha5	#泉
 徛	khia6	10
-徛	kha6	10#泉
+徛	kha6	10	#泉
 徛	khia7
-徛	kha7#泉
+徛	kha7	#泉
 鵝	gia5
 蜈	gia5
 額	giah8
@@ -5028,7 +5028,7 @@ use_preset_vocabulary: false
 靴	hia1
 桸	hia1
 遐	hiah4
-遐	huah4#泉
+遐	huah4	#泉
 遐	hia5
 蟻	hia6
 瓦	hia6
@@ -5043,7 +5043,7 @@ use_preset_vocabulary: false
 鷓	cia3
 炙	cia3
 遮	ciah4	10
-遮	cuah4	10#泉
+遮	cuah4	10	#泉
 隻	ciah4
 跡	ciah4
 則	ciah4	10
@@ -5624,7 +5624,7 @@ use_preset_vocabulary: false
 詔	ciau3
 醮	ciau3
 褿	ciau5
-褿	cau5#泉
+褿	cau5	#泉
 樵	ciau5
 嶕	ciau5
 憔	ciau5
@@ -5636,7 +5636,7 @@ use_preset_vocabulary: false
 峭	chiau3
 俏	chiau3
 撨	chiau5
-撨	chau5#泉
+撨	chau5	#泉
 擾	jiau2
 爪	jiau2
 繞	jiau2
@@ -5678,7 +5678,7 @@ use_preset_vocabulary: false
 要求	iau kiu
 妖怪	iau kuai
 妖女	iau lir
-妖女	iau lu#俗
+妖女	iau lu	#俗
 妖精	iau cenn
 妖精	iau ciann
 妖嬌	iau kiau
@@ -6067,7 +6067,7 @@ use_preset_vocabulary: false
 少爺	siau ia
 少年儂	siau lian lang
 少女	siau lir
-少女	siau lu#俗
+少女	siau lu	#俗
 少校	siau hau
 少將	siau cIang
 ##	iann/iannh
@@ -6108,7 +6108,7 @@ use_preset_vocabulary: false
 驚	kiann1
 京	kiann1
 囝	kiann2
-囝	kann2#泉
+囝	kann2	#泉
 鏡	kiann3
 行	kiann5
 件	kiann6
@@ -6120,7 +6120,7 @@ use_preset_vocabulary: false
 挔	hiannh4
 嚇	hiannh4
 燃	hiann5
-燃	nia5#异
+燃	nia5	#异
 惶	hiann5	1%
 艾	hiann7
 精	ciann1	1%
@@ -6584,14 +6584,14 @@ use_preset_vocabulary: false
 挾	hiap8
 尖	ciam1	10
 針	ciam1
-針	cam1#泉
+針	cam1	#泉
 瞻	ciam1
 占	ciam1
 簪	ciam1
 佔	ciam3
 接	ciap4
 汁	ciap4
-汁	cap4#泉
+汁	cap4	#泉
 睫	ciap4	0%
 潛	ciam5
 漸	ciam6	10
@@ -6608,8 +6608,8 @@ use_preset_vocabulary: false
 妾	chiap4
 竊	chiap4
 橙	chiam5
-橙	chiang5#异
-橙	siam5#懒
+橙	chiang5	#异
+橙	siam5	#懒
 染	jiam2
 冉	jiam2
 髯	jiam5
@@ -7118,7 +7118,7 @@ use_preset_vocabulary: false
 癮	gian3
 囓	giat4
 言	gian5
-言	gan5#漳
+言	gan5	#漳
 唁	gian7
 孽	giat8
 齧	giat8
@@ -7987,7 +7987,7 @@ use_preset_vocabulary: false
 仙桃	sian tho
 仙童	sian tong
 仙女	sian lir
-仙女	sian lu#俗
+仙女	sian lu	#俗
 仙居	sian kir
 仙丹	sian tan
 仙人掌	sian jin cIang
@@ -8057,9 +8057,9 @@ use_preset_vocabulary: false
 禪讓	sian jIang
 ##	iang/iak
 偝	iang7
-偝	iannh8#泉
-偝	ciann1#泉
-偝	ainn7#漳
+偝	iannh8	#泉
+偝	ciann1	#泉
+偝	ainn7	#漳
 嘣	piang1
 迸	piang3
 煏	piak4
@@ -8081,12 +8081,12 @@ use_preset_vocabulary: false
 唱	chiang3
 沖	chiang5
 雙	siang1
-雙	sang1#泉
+雙	sang1	#泉
 誰	siang5	1%	10
 誰	siong5	1%	#泉
-誰	siang7	1%	10#异
+誰	siang7	1%	10	#异
 侗	siang5
-侗	sang5#泉
+侗	sang5	#泉
 偝巾
 煏開	piak khui
 煏破	piak phua
@@ -8301,7 +8301,7 @@ use_preset_vocabulary: false
 養老	Iang noo
 養老	Iang lo
 養女	Iang lir
-養女	Iang lu#俗
+養女	Iang lu	#俗
 養兵	Iang ping
 養病	Iang penn
 養生	Iang sing
@@ -8584,7 +8584,7 @@ use_preset_vocabulary: false
 傷跡	sIang jiah
 傷本	sIang pun
 傷重	sIang tiong
-傷重	siong tiong#漳
+傷重	siong tiong	#漳
 傷財	sIang cai
 傷情	sIang cing
 傷害	sIang hai
@@ -9186,11 +9186,11 @@ use_preset_vocabulary: false
 華山	hua san
 華麗	hua le
 喝拳	huah kun
-喝拳	hua kun#泉
+喝拳	hua kun	#泉
 喝仙	huah sian
-喝仙	hua sian#泉
+喝仙	hua sian	#泉
 喝儂	huah lang
-喝儂	hua lang#泉
+喝儂	hua lang	#泉
 喝價	huah kee
 喝頷	huah am
 華裔	hua e
@@ -10809,7 +10809,7 @@ use_preset_vocabulary: false
 裟	see1
 屑	seeh4
 啞狗	ee kau
-啞狗	ik kau#泉
+啞狗	ik kau	#泉
 啞喉	ee au
 下跤	ee kha
 下底	ee tere
@@ -11618,8 +11618,8 @@ use_preset_vocabulary: false
 瞪	thenn5
 呢	neeh0
 奶	nee1
-奶	lin1#泉
-奶	ling1#漳
+奶	lin1	#泉
+奶	ling1	#漳
 呢	nee1
 拈	nee1
 躡	neeh4
@@ -12257,7 +12257,7 @@ use_preset_vocabulary: false
 皮	phi5
 疲	phi5
 鼻	phi7	10
-鼻	phinn7#异
+鼻	phinn7	#异
 咪	bi1
 米	bi2	10
 美	bi2	10
@@ -12433,7 +12433,7 @@ use_preset_vocabulary: false
 囍	hi2
 戲	hi3	10
 耳	hi6	10
-耳	hinn6	10#异
+耳	hinn6	10	#异
 之	ci1
 枝	ci1	0%
 支	ci1
@@ -12778,7 +12778,7 @@ use_preset_vocabulary: false
 美金	bi kim
 美景	bi king
 美女	bi lir
-美女	bi lu#俗
+美女	bi lu	#俗
 美妙	bi biau
 美妙	bi miau
 美編	bi pian
@@ -13061,7 +13061,7 @@ use_preset_vocabulary: false
 肢骨	ki kuat
 肢體	ki the
 妓女	ki lir
-妓女	ki lu#俗
+妓女	ki lu	#俗
 譏笑	ki chio
 指指	ki cainn
 指指	ki cuinn
@@ -14650,8 +14650,8 @@ use_preset_vocabulary: false
 今	kin1	5%
 緊	kin2
 囡	kin2
-囡	gin2#异
-囡	kan2#异
+囡	gin2	#异
+囡	kan2	#异
 謹	kin2
 瑾	kin2
 靳	kin3
@@ -16152,10 +16152,10 @@ use_preset_vocabulary: false
 倜	thik4
 停	thing5	10
 程	thing5	10
-程	ting5	10#异
+程	ting5	10	#异
 騰	thing5
 婷	thing5
-婷	ting5#异
+婷	ting5	#异
 呈	thing5
 謄	thing5
 冷	ling2	10
@@ -17916,13 +17916,13 @@ use_preset_vocabulary: false
 緯	ui7
 渭	ui7
 劃	uih8
-劃	uah8#漳
+劃	uah8	#漳
 痱	pui3
 沸	pui3
 肥	pui5	10
 吠	pui7
 拔	puih8
-拔	peh8#漳
+拔	peh8	#漳
 屁	phui3
 呸	phui3
 微	bui1
@@ -19914,39 +19914,39 @@ use_preset_vocabulary: false
 與	ir2
 予	ir2
 飫	ir3
-飫	IR3#廈
+飫	IR3	#廈
 余	ir5
 餘	ir5
 妤	ir5
 歟	ir5
 預	ir7	10
-預	IR7	10#廈
+預	IR7	10	#廈
 譽	ir7
 豫	ir7
 豬	tir1
-豬	tIR1#廈
+豬	tIR1	#廈
 著	tir3
 除	tir5
 鋤	tir5
-鋤	tIR5#廈
+鋤	tIR5	#廈
 躇	tir5
 佇	tir6	10
-佇	tIR6	10#廈
+佇	tIR6	10	#廈
 苧	tir6
 杼	tir6
 箸	tir7	10
-箸	tIR7	10#廈
+箸	tIR7	10	#廈
 貯	thir2
 杵	thir2
 褚	thir2
 儲	thir2
 儲	thir5
 鋤	thir5
-鋤	thIR5#廈
+鋤	thIR5	#廈
 汝	lir2	20
-汝	lIR2	20#廈
+汝	lIR2	20	#廈
 女	lir2
-女	lIR2#廈
+女	lIR2	#廈
 旅	lir2
 驢	lir5
 閭	lir5
@@ -19976,7 +19976,7 @@ use_preset_vocabulary: false
 祛	khir1
 佉	khir1
 去	khir3	10
-去	khIR3	10#廈
+去	khIR3	10	#廈
 語	gir2
 魚	gir5	1%
 漁	gir5
@@ -19988,9 +19988,9 @@ use_preset_vocabulary: false
 噓	hir1
 許	hir2
 魚	hir5	10
-魚	hIR5	10#廈
+魚	hIR5	10	#廈
 漁	hir5
-漁	hIR5#廈
+漁	hIR5	#廈
 書	cir1
 諸	cir1
 煮	cir2	10
@@ -20008,7 +20008,7 @@ use_preset_vocabulary: false
 處	chir3	10
 𩑾	chirh4
 徐	chir5
-徐	chIR5#廈
+徐	chIR5	#廈
 汝	jir2	0%
 挐	jir5
 如	jir5	10
@@ -20130,47 +20130,47 @@ use_preset_vocabulary: false
 汝好	lIR ho
 汝做汝
 女性	lir sing
-女性	lu sing#俗
+女性	lu sing	#俗
 女生	lir sing
-女生	lu sing#俗
+女生	lu sing	#俗
 女生	lir serng
-女生	lu serng#俗
+女生	lu serng	#俗
 女兮	lir e
-女兮	lu e#俗
+女兮	lu e	#俗
 女友	lir iu
-女友	lu iu#俗
+女友	lu iu	#俗
 女朋友	lir ping iu
-女朋友	lu ping iu#俗
+女朋友	lu ping iu	#俗
 女巫	lir bu
 女子	lir cur
-女子	lu cur#俗
+女子	lu cur	#俗
 女校	lir hau
-女校	lu hau#俗
+女校	lu hau	#俗
 女靴	lir hia
 女妝	lir cong
 女裝	lir cong
-女裝	lu cong#俗
+女裝	lu cong	#俗
 女犯	lir huan
 女優	lir iu
 女流之輩	lir liu ci pue
 女媧	lir kua
 女媧娘娘	lir kua niu niu
 女鞋	lir ere
-女鞋	lu ere#俗
+女鞋	lu ere	#俗
 女褲	lir khoo
-女褲	lu khoo#俗
+女褲	lu khoo	#俗
 女王	lir ong
-女王	lu ong#俗
+女王	lu ong	#俗
 女皇	lir hong
-女皇	lu hong#俗
+女皇	lu hong	#俗
 女色	lir sik
 女神	lir sin
-女神	lu sin#俗
+女神	lu sin	#俗
 女囚	lir siu
 女士	lir sur
-女士	lu sur#俗
+女士	lu sur	#俗
 女方	lir hong
-女方	lu hong#俗
+女方	lu hong	#俗
 女將	lir cIang
 旅行	lir hing
 旅居	lir kir
@@ -20949,7 +20949,7 @@ use_preset_vocabulary: false
 倍	per6	10
 焙	per7
 背	per7	10
-背	phainn7	10#漳
+背	phainn7	10	#漳
 培	per7
 胚	pher1
 坯	pher1
@@ -20961,8 +20961,8 @@ use_preset_vocabulary: false
 尾	ber2
 美	ber2
 欲	berh4	10
-欲	beh4	10#异
-欲	boh4	10#异
+欲	beh4	10	#异
+欲	boh4	10	#异
 糜	ber5
 微	ber5
 未	ber7	10
@@ -21423,7 +21423,7 @@ use_preset_vocabulary: false
 揋	ere3
 鞋	ere5
 會	ere6	10
-會	e6	10#异
+會	e6	10	#异
 狹	ereh8
 八	pereh4
 批	phere1
@@ -23904,7 +23904,7 @@ use_preset_vocabulary: false
 無侵無欠	bo chim bo khiam
 帽仔	bo a
 莫幹	boh kan
-莫幹	boh an#懶
+莫幹	boh an	#懶
 莫用	boh ing
 莫用	bok ing
 莫應	boh ing
@@ -26108,7 +26108,7 @@ use_preset_vocabulary: false
 糶	thio3
 瞭	lio2
 躼	lio3	10
-躼	lo3	10#漳
+躼	lo3	10	#漳
 撩	lio5
 略	lioh8
 叫	kio3	10
@@ -26598,7 +26598,7 @@ use_preset_vocabulary: false
 嘔	iO2
 剖	phiO2
 母	biO2	5%
-母	bIO2	5%#臺
+母	bIO2	5%	#臺
 謀	biO5
 牟	biO5
 眸	biO5
@@ -27356,7 +27356,7 @@ use_preset_vocabulary: false
 浡	phu7
 浡	phuh8
 母	bu2	10
-母	bo2	10#漳
+母	bo2	10 #漳
 武	bu2	10
 侮	bu2	10
 舞	bu2	10
@@ -32624,7 +32624,7 @@ use_preset_vocabulary: false
 緬甸	bian tian
 仰光	gIang kong
 菲律賓	hui lut pin
-菲律賓	hui lit pin#异
+菲律賓	hui lit pin #异
 馬尼拉	ma ni la
 泰國	thai kok
 曼谷	ban kok
