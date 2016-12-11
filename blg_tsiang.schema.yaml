@@ -52,7 +52,7 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([ptkbgmlsch]h?).+$/$1/ 
+    - abbrev/^([ptkbgmlschj]h?).+$/$1/ 
     - derive/^c/ts/
     - derive/uih/ueh/
     - derive/6/7/
