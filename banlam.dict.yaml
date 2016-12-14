@@ -28567,8 +28567,6 @@ use_preset_vocabulary: false
 孫	sun1	10
 珣	sun1
 蓀	sun1
-荀	sun1
-峋	sun1
 損	sun2	10
 筍	sun2	10
 恂	sun2
@@ -28585,8 +28583,10 @@ use_preset_vocabulary: false
 恤	sut4
 窣	sut4
 巡	sun5	10
+荀	sun5
 純	sun5
 洵	sun5
+峋	sun5
 詢	sun5
 唇	sun5
 循	sun5
