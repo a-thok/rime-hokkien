@@ -60,7 +60,7 @@ speller:
     - derive/IR/ir/
     - derive/ir/i/
     - derive/ur/u/
-    - derive/er(h?)(.)/ue$1$2/
+    - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
     - derive/ere/e/
     - derive/uainn/uenn/
