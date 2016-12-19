@@ -5398,7 +5398,7 @@ use_preset_vocabulary: false
 車主	chia cu
 車隊	chia tui
 車位	chia ui
-捙倒	chia　to
+捙倒	chia to
 捙盤	chia puann
 捙布邊	chia poo pinn
 捙跋倒	chia puah to
@@ -13838,7 +13838,7 @@ use_preset_vocabulary: false
 縈纏	inn tinn
 燕仔	inn a
 圓仔	inn a
-圓仔花	inn a　huee
+圓仔花	inn a huee
 圓仔湯	inn a thng
 圓仔粞	inn a chere
 圓形	inn hing
@@ -14141,6 +14141,7 @@ use_preset_vocabulary: false
 森	sim1
 深	sim1	0%
 沈	sim2
+瀋	sim2
 審	sim2
 嬸	sim2	0%
 滲	sim3
@@ -16828,7 +16829,7 @@ use_preset_vocabulary: false
 竹箬	tik hah
 竹葉	tik hioh
 竹篙	tik ko
-竹杆	tik kuann
+竹竿	tik kuann
 竹箠	tik cher
 竹箍	tik khoo
 竹管	tik kong
@@ -21868,7 +21869,7 @@ use_preset_vocabulary: false
 斤	kern1	10
 筋	kern1
 跟	kern1
-艮	kern３
+艮	kern3
 近	kern6	10
 懇	khern2
 墾	khern2
@@ -25369,7 +25370,7 @@ use_preset_vocabulary: false
 挵球	long kiu
 挵破碗	long phua uann
 挵姦𧮙	long kan choh
-漉漉	lok4
+漉漉	lok lok
 郎君	long kun
 農民	long bin
 農夫	long hu
@@ -27831,7 +27832,8 @@ use_preset_vocabulary: false
 攄倒	lu to
 鑢仔	lu a
 鑢鑢咧	lu lu lErh
-攄頭毛	lu thau muI
+攄頭毛	lu thau mng
+攄頭毛	lu thau moo
 龜精	ku cenn
 龜精	ku ciann
 龜仔	ku a
@@ -27848,6 +27850,7 @@ use_preset_vocabulary: false
 龜蠅	ku sin
 龜頭	ku thau
 龜毛	ku moo
+龜毛	ku mng
 龜怪	ku kuai
 龜裂	ku lih
 龜背	ku pue
@@ -27857,6 +27860,7 @@ use_preset_vocabulary: false
 龜咧趖	ku leh so
 龜笑鱉無尾	ku chio pih bo ber
 龜笑鱉無毛	ku chio pih bo mng
+龜笑鱉無毛	ku chio pih bo moo
 痀痀	ku ku
 痀燒	ku sio
 跔跔	ku ku
@@ -28562,10 +28566,10 @@ use_preset_vocabulary: false
 閏	jun7
 孫	sun1	10
 珣	sun1
-蓀	sun1
 荀	sun1
 峋	sun1
 洵	sun1
+蓀	sun1
 損	sun2	10
 筍	sun2	10
 恂	sun2
@@ -28582,7 +28586,10 @@ use_preset_vocabulary: false
 恤	sut4
 窣	sut4
 巡	sun5	10
+荀	sun5
 純	sun5
+洵	sun5
+峋	sun5
 詢	sun5
 唇	sun5
 循	sun5
@@ -32444,7 +32451,7 @@ use_preset_vocabulary: false
 隋文帝	sui bun te
 隋煬帝	sui iong te
 唐朝	tong tiau
-唐高組
+唐高祖
 唐太宗	tong thai cong
 李世民	li se bin
 貞觀	cing kuan
@@ -32462,8 +32469,8 @@ use_preset_vocabulary: false
 開元	khai guan
 開元盛世	khai guan sing se
 五代	ngoo tai
-後粱	hiO lIang
-後粱	hIO lIang
+後梁	hiO lIang
+後梁	hIO lIang
 後唐	hiO tong
 後唐	hIO tong
 後晉	hiO cin
@@ -32683,7 +32690,7 @@ use_preset_vocabulary: false
 英倫	ing lun
 倫敦	lun tun
 英格蘭	ing kik lan
-穌格蘭	soo kik lan
+蘇格蘭	soo kik lan
 威爾士
 威爾士語
 北愛爾蘭
@@ -32834,7 +32841,7 @@ use_preset_vocabulary: false
 蒼南	chong lam
 玉環	giok khuan
 洞頭	tong thau
-浙南閩語	cit lam ban gir
+浙南閩語	ciat lam ban gir
 嘉興	ka hing
 湖州	oo ciu
 紹興	siau hing
@@ -32933,7 +32940,7 @@ use_preset_vocabulary: false
 西藏	se cong
 遼寧	liau ling
 遼寧省	liau ling sing
-沈陽	sim iong
+瀋陽	sim Iang
 吉林	kiat lim
 吉林省	kiat lim sing
 長春	tIang chun
@@ -33362,7 +33369,10 @@ use_preset_vocabulary: false
 廣韻	kong un
 平水韻	ping sui un
 中原音韻	tiong guan im un
-妙音彙悟
+彙音妙悟
+雅俗通
+渡江書
+十五音	sip ngoo im
 韻圖	un too
 反切	huan chiat
 上字	sIang ji

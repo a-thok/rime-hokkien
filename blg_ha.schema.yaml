@@ -64,7 +64,7 @@ speller:
     - derive/IR/i/		#魚韻讀i特字
     - derive/ir/u/
     - derive/ur/u/
-    - derive/er(h?)(.)/e$1$2/
+    - derive/er([^eptkmng]*)(h?)$/e$1$2/
     - derive/Er/er/
     - derive/Er/e/
     - derive/ere/ue/

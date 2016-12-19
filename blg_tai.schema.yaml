@@ -52,7 +52,7 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - abbrev/^([ptkbgmlsch]h?).+$/$1/ 
+    - abbrev/^([ptkbgmlschj]h?).+$/$1/ 
     - derive/^c/ts/
     - derive/uih/ueh/
     #- derive/^j/l/	#偏泉腔，j濫l
@@ -66,8 +66,8 @@ speller:
     - derive/ir/u/
     - derive/ir/i/
     - derive/ur/u/
-    - derive/er(h?)(.)/ue$1$2/		#偏漳腔，過讀kue
-    #- derive/er(h?)(.)/e$1$2/		#偏泉腔，過讀ke
+    - derive/er([^eptkmng]*)(h?)$/ue$1$2/		#偏漳腔，過讀kue
+    #- derive/er([^eptkmng]*)(h?)$/e$1$2/		#偏泉腔，過讀ke
     - derive/Er/e/
     - derive/Er/er/		#鹿港
     - derive/ere/e/		#偏漳腔，雞讀ke
