@@ -63,9 +63,9 @@ speller:
     - derive/er([^eptkmng]*)(h?)$/ue$1$2/
     - derive/Er/e/
     - derive/ere/e/
-    - derive/uainn/uenn/
     - derive/uAinn/uan/
     - derive/iO/oo/
+    - derive/U/i/
     - derive/aInn/an/
     - derive/aInn/ing/
     - derive/^ngaI/gan/

@@ -76,6 +76,7 @@ speller:
     - derive/uAinn/uan/
     - derive/iO/oo/
     - derive/IO/io/		#侯韻文讀特字
+    - derive/U/u/
     - derive/aInn/ing/
     - derive/^ngaI/ging/
     - derive/aI/ai/

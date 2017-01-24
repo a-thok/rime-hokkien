@@ -1678,7 +1678,7 @@ use_preset_vocabulary: false
 塞翁失馬	sai ong sit ma
 ##	au/auh
 歐	au1
-區	au1
+區	au1	5%
 甌	au1
 漚	au1
 拗	au2
@@ -2159,7 +2159,7 @@ use_preset_vocabulary: false
 勾引	kau in
 勾結	kau kiat
 郊外	kau gua
-郊區	kau khu
+郊區	kau khU
 郊遊	kau iu
 蛟龍	kau liong
 狗仔	kau a
@@ -2278,7 +2278,7 @@ use_preset_vocabulary: false
 校方	hau hong
 校工	hau kang
 校舍	hau sia
-校區	hau khu
+校區	hau khU
 校友	hau iu
 校慶	hau khing
 校園	hau huInn
@@ -3103,7 +3103,7 @@ use_preset_vocabulary: false
 南戲	lam hi
 南部	lam poo
 南天門	lam thian bun
-南區	lam khu
+南區	lam khU
 男女	lam lir
 男女	lam lu	#俗
 男子	lam cur
@@ -4213,7 +4213,7 @@ use_preset_vocabulary: false
 殺生	sat sing
 殺生	sat serng
 殺害	sat hai
-殺身取義	sat sin chu gi
+殺身取義	sat sin chU gi
 塞鼻	sat phi
 塞鼻	sat phinn
 蝨母
@@ -4469,7 +4469,7 @@ use_preset_vocabulary: false
 北斗	pak tau
 北斗星	pak tau chinn
 北部	pak poo
-北區	pak khu
+北區	pak khU
 北面	pak bin
 腹肚	pak too
 腹肚枵	pak too iau
@@ -4581,7 +4581,7 @@ use_preset_vocabulary: false
 墨斗仔	bak tau a
 東方	tang hng
 東爿	tang paInn
-東區	tang khu
+東區	tang khU
 東部	tang poo
 東北	tang pak
 東北風	tang pak huang
@@ -4733,7 +4733,7 @@ use_preset_vocabulary: false
 工頭	kang thau
 工業	kang giap
 工儂	kang lang
-工具	kang ku
+工具	kang kU
 工期	kang ki
 工地	kang tere
 工商	kang sIang
@@ -4767,7 +4767,7 @@ use_preset_vocabulary: false
 港口	kang khau
 港墘	kang kinn
 港路	kang loo
-港區	kang khu
+港區	kang khU
 港灣	kang uan
 港都	kang too
 降價	kang kee
@@ -5447,7 +5447,7 @@ use_preset_vocabulary: false
 捨命	sia mia
 捨身	sia sin
 捨本逐末	sia pun tiok buat
-捨身取義	sia sin chu gi
+捨身取義	sia sin chU gi
 赦罪	sia cue
 赦免	sia bian
 卸敗	sia pai
@@ -5472,7 +5472,7 @@ use_preset_vocabulary: false
 社長	sia tiunn
 社稷	sia cik
 社員	sia uan
-社區	sia khu
+社區	sia khU
 社交	sia kau
 社團	sia thuan
 社論	sia lun
@@ -6917,7 +6917,7 @@ use_preset_vocabulary: false
 攕仔	chiam a
 僭位	chiam ui
 僭話	chiam uee
-竊取	chiap chu
+竊取	chiap chU
 竊盜
 橙汁
 染指	jiam ci
@@ -6945,7 +6945,7 @@ use_preset_vocabulary: false
 卌九	siap kau
 攝影	siap iann
 攝政	siap cing
-攝取	siap chu
+攝取	siap chU
 贍養	siam Iang
 涉獵	siap liap
 涉及	siap kip
@@ -7854,7 +7854,7 @@ use_preset_vocabulary: false
 戰火	cian her
 戰略	cian lIak
 戰神	cian sin
-戰區	cian khu
+戰區	cian khU
 戰機	cian ki
 戰事	cian sur
 戰士	cian sur
@@ -8332,7 +8332,7 @@ use_preset_vocabulary: false
 陽奉陰違	Iang hong im ui
 陽字	Iang ji
 陽氣	Iang khi
-陽具	Iang ku
+陽具	Iang kU
 陽曆	Iang lik
 陽壽	Iang siu
 陽台	Iang tai
@@ -8409,7 +8409,7 @@ use_preset_vocabulary: false
 兩方	lIang hong
 兩光	lIang kong
 兩難	lIang lan
-兩敗俱傷	lIang pai ku sIang
+兩敗俱傷	lIang pai kU sIang
 兩廣	lIang kong
 兩廊	lIang long
 量入為出	lIang jip ui chut
@@ -9634,7 +9634,7 @@ use_preset_vocabulary: false
 山腰	suann io
 山勢	suann se
 山賊	suann chat
-山區	suann khu
+山區	suann khU
 山路	suann loo
 山坡	suann pho
 山地	suann tue
@@ -9660,6 +9660,7 @@ use_preset_vocabulary: false
 崴	uainn2
 崴	uainnh4
 糜	muai5
+妹	muai7	1%
 關	kuainn1
 杆	kuainn1
 橫	huainn5
@@ -10185,7 +10186,7 @@ use_preset_vocabulary: false
 管絃	kuan hian
 管家	kuan kee
 管家婆	kuan kee po
-管區	kuan khu
+管區	kuan khU
 管顧	kuan koo
 管數	kuan siau
 管束	kuan sok
@@ -10269,7 +10270,7 @@ use_preset_vocabulary: false
 權利	kuan li
 權勢	kuan se
 權勢	khuan se
-玩具	guan ku
+玩具	guan kU
 玩家	guan ka
 元寶	guan po
 元夜	guan ia
@@ -10677,7 +10678,7 @@ use_preset_vocabulary: false
 選擇	suan tik
 選民	suan bin
 選項	suan hang
-選區	suan khu
+選區	suan khU
 選購	suan kiO
 選定	suan ting
 選出	suan chut
@@ -11384,7 +11385,7 @@ use_preset_vocabulary: false
 地下室	te ha sik
 地域	te hik
 地方	te hng
-地區	te khu
+地區	te khU
 地府	te hu
 地球	te kiu
 地理	te li
@@ -12646,7 +12647,7 @@ use_preset_vocabulary: false
 比論	pi lun
 比在	pi cai
 比範	pi pan
-比喻	pi ju
+比喻	pi jU
 比照	pi ciau
 比例	pi le
 比並
@@ -13238,7 +13239,7 @@ use_preset_vocabulary: false
 企圖	khi too
 器重	khi tiong
 器量	khi lIang
-器具	khi ku
+器具	khi kU
 器械	khi hai
 器官	khi kuan
 器材	khi cai
@@ -13500,7 +13501,7 @@ use_preset_vocabulary: false
 溡溡	chi chi
 溡儂	chi lang
 溡喌喌	chi ciuh ciuh
-市區	chi khu
+市區	chi khU
 市內	chi lai
 市長	chi tiunn
 市民	chi bin
@@ -13857,7 +13858,7 @@ use_preset_vocabulary: false
 院會	inn hue
 院校	inn hau
 院士	inn sur
-院區	inn khu
+院區	inn khU
 邊頭	pinn thau
 邊仔	pinn a
 扁扁	pinn pinn
@@ -14241,7 +14242,7 @@ use_preset_vocabulary: false
 臨當臨時
 臨時臨陣
 臨終	lim ciong
-臨危不懼	lim gui put ku
+臨危不懼	lim gui put kU
 臨盆	lim phun
 臨陣	lim tin
 臨場	lim tiunn
@@ -15302,7 +15303,7 @@ use_preset_vocabulary: false
 進行	cin hing
 進步	cin poo
 進入	cin jip
-進取	cin chu
+進取	cin chU
 進前	cin caInn
 進主	cin cu
 進化	cin hua
@@ -16753,7 +16754,7 @@ use_preset_vocabulary: false
 燈猜	ting chai
 燈座	ting co
 燈光	ting kuInn
-燈具	ting ku
+燈具	ting kU
 燈泡	ting pha
 叮嚀	ting ling
 徵收
@@ -16908,7 +16909,7 @@ use_preset_vocabulary: false
 特殊	tik su
 特務	tik bu
 特效	tik hau
-特區	tik khu
+特區	tik khU
 特技	tik ki
 特派員	tik phai uan
 特使	tik sai
@@ -17265,7 +17266,7 @@ use_preset_vocabulary: false
 興頭	hing thau
 刑罰	hing huat
 刑法	hing huat
-刑具	hing ku
+刑具	hing kU
 刑部	hing poo
 行為	hing ui
 行文	hing bun
@@ -17371,7 +17372,7 @@ use_preset_vocabulary: false
 僧侶
 爭鬥	cing tiO
 爭論	cing lun
-爭取	cing chu
+爭取	cing chU
 爭辯	cing pian
 爭議	cing gi
 爭踖	cing coh
@@ -18144,7 +18145,7 @@ use_preset_vocabulary: false
 畏事	ui sur
 畏途	ui too
 畏罪	ui cue
-畏懼	ui khu
+畏懼	ui khU
 畏懼	ui ku
 畏喙	ui chui
 蔚然	ui jian
@@ -18949,7 +18950,7 @@ use_preset_vocabulary: false
 跪踮	kui tiam
 跪拜	kui pai
 跪地	kui tere
-跪乳	kui lu
+跪乳	kui jU
 跪算盤	kui suInn puann
 跪路呈	kui loo tiann
 跪路呈	kui loo thiann
@@ -19861,7 +19862,7 @@ use_preset_vocabulary: false
 貫針	kuInn cam
 勸和	khuInn ho
 荒埔	huInn poo
-園區	huInn khu
+園區	huInn khU
 園長	huInn tiunn
 遠遠	huInn huInn
 遠長	huInn tng
@@ -19938,6 +19939,7 @@ use_preset_vocabulary: false
 杼	tir6
 箸	tir7	10
 箸	tIR7	10	#廈
+攄	thir1	5%
 貯	thir2
 杵	thir2
 褚	thir2
@@ -20034,7 +20036,7 @@ use_preset_vocabulary: false
 於今	ir kim
 與會	ir hue
 與世隔絕	ir se kik cuat
-予取予求	ir chu ir kiu
+予取予求	ir chU ir kiu
 飫喙	IR chui
 飫儂	IR lang
 飫飫	IR IR
@@ -20643,7 +20645,7 @@ use_preset_vocabulary: false
 自責	cur cerk
 自從	cur ciong
 自治	cur ti
-自治區	cur ti khu
+自治區	cur ti khU
 自治州	cur ti ciu
 自治縣	cur ti kuAinn
 自來	cur lai
@@ -22397,7 +22399,7 @@ use_preset_vocabulary: false
 步入	poo jip
 步伐	poo huah
 步驟	poo ciO
-哺乳	poo ju
+哺乳	poo jU
 哺舌	poo cih
 哺齒	poo khi
 哺食	poo ciah
@@ -22444,7 +22446,7 @@ use_preset_vocabulary: false
 模擬	boo gi
 模擬器	boo gi khi
 模樣	boo iunn
-模具	boo ku
+模具	boo kU
 模板	boo pan
 模範	boo huan
 模型	boo hing
@@ -23922,7 +23924,7 @@ use_preset_vocabulary: false
 刀劍	to kiam
 刀肉	to bah
 刀銎	to khing
-刀具	to ku
+刀具	to kU
 刀喙	to chui
 刀石	to cioh
 多數
@@ -25166,7 +25168,7 @@ use_preset_vocabulary: false
 黨派	tong phai
 黨員	tong uan
 黨參
-黨羽	tong u
+黨羽	tong U
 黨務	tong bu
 黨工	tong kang
 黨旗	tong ki
@@ -25379,7 +25381,7 @@ use_preset_vocabulary: false
 農業	long giap
 農家	long ka
 農家樂	long ka lok
-農具	long ku
+農具	long kU
 農產品	long san phin
 農學	long hak
 農民曆	long bin lik
@@ -25719,7 +25721,7 @@ use_preset_vocabulary: false
 礦石	khong cioh
 壙物	khong but
 壙物質	khong but cit
-礦區	khong khu
+礦區	khong khU
 壙山	khong suann
 礦泉水	khong cuann cui
 曠野	khong ia
@@ -26040,7 +26042,7 @@ use_preset_vocabulary: false
 創刊	chong khan
 創始	chong si
 創作	chong cok
-桑榆暮景	song u boo king
+桑榆暮景	song jU boo king
 鬆懈	song hai
 爽快	song khuai
 喪失	song sit
@@ -27134,7 +27136,7 @@ use_preset_vocabulary: false
 恐喝	khiong hat
 恐嚇	khiong hik
 恐懼	khiong khu
-恐懼	khiong ku
+恐懼	khiong kU
 恐驚	khiong kiann
 恐怕	khiong pha
 恐怕	khiong phann
@@ -27323,26 +27325,11 @@ use_preset_vocabulary: false
 贖回	siok hue
 贖身	siok sin
 ##	u/uh
-迂	u1
 污	u1
-羽	u2
-雨	u2
 宇	u2
-禹	u2
 煦	u3
 噎	uh4
-盂	u5
-竽	u5
-雩	u5
-#逾	u5
-覦	u5
-#渝	u5
-#瑜	u5
-#榆	u5
-臾	u5
-諛	u5
 有	u6	10
-芋	u7
 富	pu3
 發	puh4	5%
 匏	pu5
@@ -27385,55 +27372,39 @@ use_preset_vocabulary: false
 禿	thuh4
 怢	thuh8
 攄	lu1
-縷	lu2
-屢	lu2
-褸	lu2
 鑢	lu3
 龜	ku1
 痀	ku1
 跔	ku1
 駒	ku1
-俱	ku1
+駒	khi1	#漳
 久	ku2	10
 韭	ku2
 句	ku3	10
 灸	ku3
 衢	ku5
 舅	ku6
-具	ku7
 舊	ku7	10
-懼	ku7
 咕	kuh8
-區	khu1
 軀	khu1
 邱	khu1
 坵	khu1
 丘	khu1
-驅	khu1
-嶇	khu1
 跔	khuh4
 呿	khuh4
 跍	khu5	10
-瞿	khu5
 柩	khu6
 臼	khu6
 懼	khu7
 具	khu7
 汩	khuh8
-虞	gu5
 牛	gu5	10
-娛	gu5
-愚	gu5
-隅	gu5
-遇	gu7	10
-寓	gu7
 夫	hu1
 膚	hu1
 撫	hu1
 孵	hu1
 敷	hu1
 烌	hu1
-吁	hu1
 麩	hu1
 趺	hu1
 府	hu2	10
@@ -27444,8 +27415,6 @@ use_preset_vocabulary: false
 輔	hu2
 腑	hu2
 俯	hu2
-栩	hu2
-詡	hu2
 釜	hu2
 赴	hu3	10
 副	hu3	10
@@ -27477,57 +27446,28 @@ use_preset_vocabulary: false
 蛀	cu3
 駐	cu3
 鑄	cu3
-聚	cu6
 柱	cu6
 住	cu7
-苴	cu7
 趨	chu1
-樞	chu1
-取	chu2
-娶	chu2
+樞	chu1	
 厝	chu3
 趣	chu3
 焠	chuh4
 澍	chu6
-跙	chu6
+跙	chu6	
 愈	ju2	10
-乳	ju2
-庾	ju2
-儒	ju5
-俞	ju5
-茹	ju5
-蠕	ju5
-瑜	ju5
-愉	ju5
-渝	ju5
-逾	ju5
-孺	ju5
-濡	ju5
-榆	ju5
+愈	ji2	#漳音文讀 
 裕	ju7
-諭	ju7
-喻	ju7
 輸	su1	10
-需	su1	10
-須	su1	10
 軀	su1
-鬚	su1
 姝	su1
-璽	su2
-署	su2
-徙	su2	5%
 墅	su2
 戍	su3
 欶	suh4
 速	suh4
 殊	su5	10
-樹	su7	5%
-豎	su7	10
 污染	u jiam
 污點	u tiam
-羽毛	u moo
-羽毛球	u moo kiu
-雨水	u sui
 宇宙	u tiu
 煦燒	u sio
 煦印	u in
@@ -27754,8 +27694,8 @@ use_preset_vocabulary: false
 無知不識	bu ti put sik
 無恥	bu thi
 無憂	bu iu
-無理取鬧	bu li chu nau
-無理取鬧	bu li chu lau
+無理取鬧	bu li chU nau
+無理取鬧	bu li chU lau
 無孔不入	bu khong put jip
 誣賴	bu lua
 誣告	bu ko
@@ -27865,7 +27805,7 @@ use_preset_vocabulary: false
 痀痀	ku ku
 痀燒	ku sio
 跔跔	ku ku
-俱樂部	ku lok poo
+俱樂部	kU lok poo
 久久	ku ku
 久病	ku penn
 久長	ku tng
@@ -27881,9 +27821,6 @@ use_preset_vocabulary: false
 灸薰	ku hun
 舅仔	ku a
 舅公	ku kong
-具體	ku the
-具備	ku pi
-具名	ku mia
 舊曆	ku lik
 舊年	ku ni
 舊底	ku tere
@@ -27911,13 +27848,6 @@ use_preset_vocabulary: false
 舊冬	ku tang
 舊冊	ku cheeh
 舊套	ku tho
-區域	khu hik
-區別	khu piat
-區長	khu tiunn
-區分	khu hun
-區隔	khu keeh
-區間	khu kan
-區段	khu tuann
 邱舍人	khu sia jin
 坵數	khu soo
 坵段	khu tuann
@@ -27985,20 +27915,6 @@ use_preset_vocabulary: false
 牛杙	gu khit
 牛黃	gu hong
 牛頭獄卒	gu thau giok cut
-娛樂	gu lok
-愚躕	gu tu
-愚民	gu bin
-愚蠢	gu chun
-愚戇	gu gong
-愚人	gu jin
-愚人節	gu jin cereh
-愚見	gu kian
-愚忠	gu tiong
-遇著	gu tioh
-遇害	gu hai
-寓言	gu gian
-寓所	gu soo
-寓意	gu i
 夫人	hu jin
 夫妻	hu che
 夫婦	hu hu
@@ -28221,33 +28137,13 @@ use_preset_vocabulary: false
 鑄模	cu boo
 鑄造	cu co
 鑄鼎	cu tiann
-聚會	cu hue
-聚餐	cu chan
-聚集	cu cip
-聚財	cu cai
-聚斂	cu liam
-聚散	cu san
 住址	cu ci
 住校	cu hau
 住宿	cu sok
-趨媚	chu bi
-趨向	chu hIang
-趨勢	chu se
 趨倒	chu to
 樞紐	chu niu
 樞要	chu iau
 樞機	chu ki
-取齊	chu cere
-取義	chu gi
-取下	chu ha
-取法	chu huat
-取景	chu king
-取經	chu king
-取消	chu siau
-取締	chu te
-取代	chu tai
-取材	chu cai
-取得	chu tit
 厝主	chu cu
 厝契	chu khere
 厝宅	chu theeh
@@ -28284,44 +28180,158 @@ use_preset_vocabulary: false
 澍水	chu cui
 跙一倒	chu cit to
 跙倒	chu to
-乳名	ju mia
 愈來愈	ju lai ju
-儒家	ju ka
-儒門	ju bun
-儒者	ju cia
-儒子	ju cur
-儒學	ju hak
-儒醫	ju i
-儒教	ju kau
-儒林	ju lim
-儒生	ju sing
-儒生	ju serng
-儒士	ju sur
-愉快	ju khuai
-孺人	ju jin
-諭旨	ju ci
 輸成	su ciann
-輸出	su chut
 輸贏	su iann
-輸入	su jip
-輸入法	su jip huat
 輸儂毋輸陣	su lang m su tin
 輸勢	su se
-輸血	su huih
 輸面	su bin
-輸送	su sang
-輸送	su song
-需要	su iau
-需求	su kiu
-須當	su tong
-須知	su ti
-鬚眉	su bi
 欶奶
 欶血	suh huih
 速速	suh suh
 速速走	suh suh cau
 速速叫	suh suh kio
-樹立	su lip
+##	U/Uh
+迂	U1
+迂	u1	#又
+羽	U2
+雨	U2
+禹	U2
+盂	U5	
+竽	U5	
+雩	U5	
+#逾	U5	
+覦	U5	
+#渝	U5	
+#瑜	U5	
+#榆	U5	
+臾	U5	
+諛	U5	
+芋	U7	
+縷	lU2	
+屢	lU2	
+褸	lU2	
+俱	kU1	
+具	kU7	
+懼	kU7	
+區	khU1	
+軀	khU1	
+驅	khU1	
+嶇	khU1	
+瞿	khU5	
+虞	gU5	
+娛	gU5	
+愚	gU5	
+隅	gU5	
+遇	gU7	10
+寓	gU7	
+吁	hU1	
+栩	hU2	
+詡	hU2	
+聚	cU6	
+苴	cU7	
+趨	chU1	
+取	chU2	
+娶	chU2		
+乳	jU2	
+庾	jU2	
+儒	jU5	
+俞	jU5		
+蠕	jU5	
+瑜	jU5	
+愉	jU5	
+渝	jU5	
+逾	jU5	
+孺	jU5	
+濡	jU5	
+榆	jU5	
+諭	jU7	
+喻	jU7	
+輸	sU1	10
+需	sU1	10
+須	sU1	10
+鬚	sU1	
+璽	sU2	
+署	sU2	
+徙	sU2	5%
+樹	sU7	5%
+豎	sU7	10
+羽毛	U moo
+羽毛球	U moo kiu
+雨水	U sui
+具體	kU the
+具備	kU pi
+具名	kU mia
+區域	khU hik
+區別	khU piat
+區長	khU tiunn
+區分	khU hun
+區隔	khU keeh
+區間	khU kan
+區段	khU tuann
+軀殼	khU khak
+軀體	khU the
+娛樂	gU lok
+愚躕	gU tu
+愚民	gU bin
+愚蠢	gU chun
+愚戇	gU gong
+愚人	gU jin
+愚人節	gU jin cereh
+愚見	gU kian
+愚忠	gU tiong
+遇著	gU tioh
+遇害	gU hai
+寓言	gU gian
+寓所	gU soo
+寓意	gU i
+聚會	cU hue
+聚餐	cU chan
+聚集	cU cip
+聚財	cU cai
+聚斂	cU liam
+聚散	cU san
+趨媚	chU bi
+趨向	chU hIang
+趨勢	chU se
+取齊	chU cere
+取義	chU gi
+取下	chU ha
+取法	chU huat
+取景	chU king
+取經	chU king
+取消	chU siau
+取締	chU te
+取代	chU tai
+取材	chU cai
+取得	chU tit
+乳名	jU mia
+儒家	jU ka
+儒門	jU bun
+儒者	jU cia
+儒子	jU cur
+儒學	jU hak
+儒醫	jU i
+儒教	jU kau
+儒林	jU lim
+儒生	jU sing
+儒生	jU serng
+儒士	jU sur
+愉快	jU khuai
+孺人	jU jin
+諭旨	jU ci
+輸出	sU chut
+輸入	sU jip
+輸入法	sU jip huat
+輸血	sU huih
+輸送	sU sang
+輸送	sU song
+需要	sU iau
+需求	sU kiu
+須當	sU tong
+須知	sU ti
+鬚眉	sU bi
+樹立	sU lip
 ##	un/ut
 溫	un1	10
 瘟	un1
@@ -29643,7 +29653,7 @@ use_preset_vocabulary: false
 分享	hun hIang
 分析	hun sik
 分泌	hun pi
-分區	hun khu
+分區	hun khU
 分組	hun coo
 分裂	hun liat
 分貝	hun pue
@@ -30739,7 +30749,7 @@ use_preset_vocabulary: false
 求情	kiu cing
 求證	kiu cing
 求親	kiu chin
-求取	kiu chu
+求取	kiu chU
 求借	kiu cioh
 求助	kiu coo
 求下	kiu hee
@@ -31677,7 +31687,7 @@ use_preset_vocabulary: false
 上手契	ciunn chiu khere
 上樹	ciunn chiu
 上床	ciunn chng
-上取	ciunn chu
+上取	ciunn chU
 上春	ciunn chun
 上正	ciunn ciann
 上錢	ciunn cinn
@@ -33473,13 +33483,13 @@ use_preset_vocabulary: false
 雙魚座
 ##	地名
 鯉城	li siann
-鯉城區	li siann khu
+鯉城區	li siann khU
 豐澤	hong tik
-豐澤區	hong tik khu
+豐澤區	hong tik khU
 洛江	lok kang
-洛江區	lok kang khu
+洛江區	lok kang khU
 泉港	cuan kang
-泉港區	cuan kang khu
+泉港區	cuan kang khU
 晉江	cin kang
 晉江市	cin kang chi
 石獅	cioh sai
@@ -33495,9 +33505,9 @@ use_preset_vocabulary: false
 安溪	an khere
 安溪縣	an khere kuAinn
 薌城	hIang siann
-薌城區	hIang siann khu
+薌城區	hIang siann khU
 龍文	liong bun
-龍文區	liong bun khu
+龍文區	liong bun khU
 龍海	liong hai
 龍海市	liong hai chi
 雲霄	un sio
@@ -33517,15 +33527,15 @@ use_preset_vocabulary: false
 華安	hua an
 華安縣	hua an kuAinn
 思明	sir bing
-思明區	sir bing khu
+思明區	sir bing khU
 湖里	oo li
-湖里區	oo li khu
+湖里區	oo li khU
 海滄	hai chng
-海滄區	hai chng khu
+海滄區	hai chng khU
 同安	tang uann
-同安區	tang uann khu
+同安區	tang uann khU
 翔安	sIang uann
-翔安區	sIang uann khu
+翔安區	sIang uann khU
 臺北	tai pak
 臺北市	tai pak chi
 臺北縣	tai pak kuAinn
