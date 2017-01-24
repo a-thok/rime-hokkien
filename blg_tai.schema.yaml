@@ -73,7 +73,7 @@ speller:
     - derive/ere/e/		#偏漳腔，雞讀ke
     #- derive/ere/ue/		#偏泉腔，雞讀kue
     - derive/uIn?n?/ng/
-    - derive/^(k)uainn([357])/$1uan$2/
+    - derive/uAinn/uan/
     - derive/iO/oo/
     - derive/IO/io/		#侯韻文讀特字
     - derive/aInn/ing/

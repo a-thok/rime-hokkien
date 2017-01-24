@@ -5120,7 +5120,7 @@ use_preset_vocabulary: false
 野凊	ia chin
 野凝	ia gan
 野冰	ia ping
-野懸	ia kuainn
+野懸	ia kuAinn
 野低	ia kee
 也許	ia hir
 冶金	ia kim
@@ -6383,7 +6383,7 @@ use_preset_vocabulary: false
 誠凊	ciann chin
 誠凝	ciann gan
 誠冰	ciann ping
-誠懸	ciann kuainn
+誠懸	ciann kuAinn
 誠低	ciann kee
 誠𠢕	ciann gau
 誠實	ciann sit
@@ -6683,7 +6683,7 @@ use_preset_vocabulary: false
 填海	thiam hai
 填本	thiam puInn
 填本	thiam pun
-疊懸	thiap kuainn
+疊懸	thiap kuAinn
 疊環	thiap khuan
 疊盤	thiap puann
 攝影	liap iann
@@ -9662,9 +9662,6 @@ use_preset_vocabulary: false
 糜	muai5
 關	kuainn1
 杆	kuainn1
-慣	kuainn3
-懸	kuainn5
-縣	kuainn7
 橫	huainn5
 檨	suainn7
 關密密	kuainn bat bat
@@ -9674,24 +9671,28 @@ use_preset_vocabulary: false
 關絚	kuainn an
 關電	kuainn tian
 關機	kuainn ki
-慣勢	kuainn si
-懸低	kuainn kee
-懸度	kuainn too
-懸懸	kuainn kuainn
-縣誌	kuainn ci
-縣衙	kuainn gee
-縣官	kuainn kuann
-縣令	kuainn ling
-縣城	kuainn siann
-縣丞	kuainn sing
-縣老爺	kuainn noo ia
-縣老爺	kuainn lo ia
-縣誌	kuainn ci
 橫直	huainn tit
 橫扴	huainn keeh
 橫霸霸	huainn pa pa
 橫財	huainn ca
 橫向	huainn hIang
+##	uAinn/uAinnh
+慣	kuAinn3
+懸	kuAinn5
+縣	kuAinn7
+慣勢	kuAinn si
+懸低	kuAinn kee
+懸度	kuAinn too
+懸懸	kuAinn kuAinn
+縣誌	kuAinn ci
+縣衙	kuAinn gee
+縣官	kuAinn kuann
+縣令	kuAinn ling
+縣城	kuAinn siann
+縣丞	kuAinn sing
+縣老爺	kuAinn noo ia
+縣老爺	kuAinn lo ia
+縣誌	kuAinn ci
 ##	uan/uat
 冤	uan1	10
 灣	uan1	10
@@ -11706,7 +11707,7 @@ use_preset_vocabulary: false
 佯天佯踱	thenn thian tenn thoh
 撜力	tenn lat
 撜屎	tenn sai
-牚懸	thenn kuainn
+牚懸	thenn kuAinn
 牚頭	thenn thau
 牚腿	thenn thui
 瞪目	thenn bak
@@ -15283,7 +15284,7 @@ use_preset_vocabulary: false
 真凊	cin chin
 真凝	cin gan
 真冰	cin ping
-真懸	cin kuainn
+真懸	cin kuAinn
 真低	cin kee
 真𠢕	cin gau
 真䆀	cin bai
@@ -15811,7 +15812,7 @@ use_preset_vocabulary: false
 身頂	sin ting
 身軀頂	sin khu ting
 身亡	sin bong
-身懸	sin kuainn
+身懸	sin kuAinn
 身價	sin kee
 身份	sin hun
 身邊	sin pinn
@@ -16784,7 +16785,7 @@ use_preset_vocabulary: false
 頂月	ting gerh
 頂下	ting ee
 頂日仔	ting jit a
-頂懸	ting kuainn
+頂懸	ting kuAinn
 頂港	ting kang
 頂肱骨	ting kong kut
 頂落	ting loh
@@ -17720,7 +17721,7 @@ use_preset_vocabulary: false
 升級	sing khip
 升級	sing kip
 升官	sing kuann
-升懸	sing kuainn
+升懸	sing kuAinn
 升天	sing thian
 升堂	sing tng
 升學	sing hak
@@ -20644,7 +20645,7 @@ use_preset_vocabulary: false
 自治	cur ti
 自治區	cur ti khu
 自治州	cur ti ciu
-自治縣	cur ti kuainn
+自治縣	cur ti kuAinn
 自來	cur lai
 自新	cur sin
 自定義	cur ting gi
@@ -27821,7 +27822,7 @@ use_preset_vocabulary: false
 揬著	tuh tioh
 嘟嘟	tu tu
 禿額	thuh hiah
-托懸	thuh kuainn
+托懸	thuh kuAinn
 托咧	thuh lErh
 托下頦	thuh ee hai
 托下斗	thuh ee tau
@@ -28007,7 +28008,7 @@ use_preset_vocabulary: false
 膚色	hu sik
 膚淺	hu chian2
 府上	hu ciunn
-府縣	hu kuainn
+府縣	hu kuAinn
 府內	hu lai
 府學	hu oh
 府第	hu te
@@ -29358,7 +29359,7 @@ use_preset_vocabulary: false
 窘迫	kun pik
 窘態	kun thai
 郡主	kun cu
-郡縣	kun kuainn
+郡縣	kun kuAinn
 郡馬	kun ma
 郡王	kun ong
 郡守	kun siu
@@ -30806,7 +30807,7 @@ use_preset_vocabulary: false
 𩚨𩚨	khiu khiu
 牛黃	giu hong
 州府	ciu hu
-州縣	ciu kuainn
+州縣	ciu kuAinn
 周圍	ciu ui
 周全	ciu cuan
 周至	ciu ci
@@ -31712,7 +31713,7 @@ use_preset_vocabulary: false
 上京	ciunn kiann
 上轎	ciunn kio
 上櫃	ciunn kui
-上懸	ciunn kuainn
+上懸	ciunn kuAinn
 上官	ciunn kuann
 上街	ciunn kere
 上斤	ciunn kern
@@ -31798,7 +31799,7 @@ use_preset_vocabulary: false
 唱機	chiunn ki
 唱歌	chiunn kua
 唱歌唸曲	chiunn kua liam khik
-唱懸調	chiunn kuainn tiau
+唱懸調	chiunn kuAinn tiau
 唱唸	chiunn liam
 唱盤	chiunn puann
 薔薇	chiunn bi
@@ -33486,13 +33487,13 @@ use_preset_vocabulary: false
 南安	lam uann
 南安市	lam uann chi
 惠安	hui uann
-惠安縣	hui uann kuainn
+惠安縣	hui uann kuAinn
 德化	tik huee
-德化縣	tik huee kuainn
+德化縣	tik huee kuAinn
 永春	ing chun
-永春縣	ing chun kuainn
+永春縣	ing chun kuAinn
 安溪	an khere
-安溪縣	an khere kuainn
+安溪縣	an khere kuAinn
 薌城	hIang siann
 薌城區	hIang siann khu
 龍文	liong bun
@@ -33500,21 +33501,21 @@ use_preset_vocabulary: false
 龍海	liong hai
 龍海市	liong hai chi
 雲霄	un sio
-雲霄縣	un sio kuainn
+雲霄縣	un sio kuAinn
 漳浦	ciunn phoo
-漳浦縣	ciunn phoo kuainn
+漳浦縣	ciunn phoo kuAinn
 詔安	ciau an
-詔安縣	ciau an kuainn
+詔安縣	ciau an kuAinn
 長泰	tio thua
-長泰縣	tio thua kuainn
+長泰縣	tio thua kuAinn
 東山	tang suann
-東山縣	tang suann kuainn
+東山縣	tang suann kuAinn
 南靖	lam cing
-南靖縣	lam cing kuainn
+南靖縣	lam cing kuAinn
 平和	ping ho
-平和縣	ping ho kuainn
+平和縣	ping ho kuAinn
 華安	hua an
-華安縣	hua an kuainn
+華安縣	hua an kuAinn
 思明	sir bing
 思明區	sir bing khu
 湖里	oo li
@@ -33527,16 +33528,16 @@ use_preset_vocabulary: false
 翔安區	sIang uann khu
 臺北	tai pak
 臺北市	tai pak chi
-臺北縣	tai pak kuainn
+臺北縣	tai pak kuAinn
 臺中	tai tiong
 臺中市	tai tiong chi
-臺中縣	tai tiong kuainn
+臺中縣	tai tiong kuAinn
 臺南	tai lam
 臺南市	tai lam chi
-臺南縣	tai lam kuainn
+臺南縣	tai lam kuAinn
 臺東	tai tang
 臺東市	tai tang chi
-臺東縣	tai tang kuainn
+臺東縣	tai tang kuAinn
 新北	sin pak
 新北市	sin pak chi
 高雄
@@ -33546,37 +33547,37 @@ use_preset_vocabulary: false
 基隆市	ke lang chi
 新竹	sin tik
 新竹市	sin tik chi
-新竹縣	sin tik kuainn
+新竹縣	sin tik kuAinn
 嘉義	ka gi
 嘉義市	ka gi chi
-嘉義縣	ka gi kuainn
+嘉義縣	ka gi kuAinn
 桃園	tho huInn
 桃園市	tho huInn chi
-桃園縣	tho huInn kuainn
+桃園縣	tho huInn kuAinn
 苗栗	biau lik
 苗栗市	biau lik chi
-苗栗縣	biau lik kuainn
+苗栗縣	biau lik kuAinn
 彰化
 彰化市
 彰化縣
 南投	lam tau
 南投市	lam tau chi
-南投縣	lam tau kuainn
+南投縣	lam tau kuAinn
 雲林	hun lim
-雲林縣	hun lim kuainn
+雲林縣	hun lim kuAinn
 屏東	pin tong
 屏東市	pin tong chi
-屏東縣	pin tong kuainn
+屏東縣	pin tong kuAinn
 宜蘭	gi lan
 宜蘭市	gi lan chi
-宜蘭縣	gi lan kuainn
+宜蘭縣	gi lan kuAinn
 花蓮	hua lian
 花蓮市	hua lian chi
-花蓮縣	hua lian kuainn
+花蓮縣	hua lian kuAinn
 澎湖	phenn oo
-澎湖縣	phenn oo kuainn
+澎湖縣	phenn oo kuAinn
 金門	kim muI
-金門縣	kim muI kuainn
+金門縣	kim muI kuAinn
 ##	科技
 百度	pah too
 新浪	sin long

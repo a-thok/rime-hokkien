@@ -64,7 +64,7 @@ speller:
     - derive/Er/e/
     - derive/ere/e/
     - derive/uainn/uenn/
-    - derive/^(k)uainn([357])/$1uan$2/
+    - derive/uAinn/uan/
     - derive/iO/oo/
     - derive/aInn/an/
     - derive/aInn/ing/
