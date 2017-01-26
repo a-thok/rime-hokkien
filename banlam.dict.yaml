@@ -7089,6 +7089,7 @@ use_preset_vocabulary: false
 吉	kiat4
 孑	kiat4
 桔	kiat4
+桔	kit4	#漳白
 潔	kiat4
 羯	kiat4
 拮	kiat4
@@ -7720,6 +7721,7 @@ use_preset_vocabulary: false
 吉普賽	kiat phoo sai
 孑然一身	kiat jian it sin
 桔仔	kiat a
+桔仔	kit a
 桔仔汁
 桔梗	kiat kenn
 潔淨	kiat cing
@@ -14304,6 +14306,7 @@ use_preset_vocabulary: false
 金金看	kim kim khuann
 金仔店
 金桔	kim kiat
+金桔	kim kit
 金婚	kim hun
 金鍊仔	kim lian a
 金爐	kim loo
@@ -27452,6 +27455,7 @@ use_preset_vocabulary: false
 鑄	cu3
 柱	cu6
 住	cu7
+苴	cu7	
 趨	chu1
 樞	chu1	
 厝	chu3
@@ -28233,7 +28237,6 @@ use_preset_vocabulary: false
 栩	hU2	
 詡	hU2	
 聚	cU6	
-苴	cU7	
 趨	chU1	
 取	chU2	
 娶	chU2		
@@ -33326,8 +33329,8 @@ use_preset_vocabulary: false
 提子	the ci
 西瓜	se kuee
 西瓜	si kuee
-桔仔	kiat a
 黃桔	hong kiat
+黃桔	hong kit
 柑仔	kam a
 檨仔	suan a
 檨仔	suainn a
