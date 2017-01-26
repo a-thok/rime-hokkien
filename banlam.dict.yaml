@@ -699,8 +699,8 @@ use_preset_vocabulary: false
 查某囡仔	ca boo kan a
 查某囝	ca boo kiann
 查某囝	ca boo kann
-查某仔囝 ca boo a kiann
-查某仔囝 ca boo a kann
+查某仔囝	ca boo a kiann
+查某仔囝	ca boo a kann
 查某嬰	ca boo enn
 查某孫	ca boo sun
 查某外甥	ca boo gue sing
@@ -2038,7 +2038,7 @@ use_preset_vocabulary: false
 頭頭	thau thau
 頭頭仔	thau thau a
 頭起先	thau khi saInn
-頭開始 thau khai si
+頭開始	thau khai si
 頭兮	thau e
 頭銜	thau ham
 頭到	thau kau
@@ -2739,7 +2739,7 @@ use_preset_vocabulary: false
 筅	chaInn2
 先	saInn1
 閒工	aInn kang
-閒時  aInn si
+閒時	aInn si
 閒閒	aInn aInn
 閒閒無代誌	aInn aInn bo tai ci
 反來反去	paInn lai paInn khIR
@@ -25684,7 +25684,7 @@ use_preset_vocabulary: false
 各位	kok ui
 各樣	kok iunn
 各个	kok e
-各地  kok te
+各地	kok te
 閣下	kok ha
 硞落去	kok loh khIR
 康健	khong kian
