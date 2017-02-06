@@ -679,6 +679,8 @@ use_preset_vocabulary: false
 廈大	ha tua
 廈大	ha tai
 廈漳泉	ha cIang cuan
+廈泉	ha cuan
+廈漳	ha cIang
 夏日	ha jit
 夏季	ha kui
 夏娃	ha ua
@@ -4684,6 +4686,8 @@ use_preset_vocabulary: false
 讀法	thak huat
 讀音	thak im
 讀經	thak king
+讀做	thak cue
+讀做	thak co
 攏褲	lang khoo
 閬空	lang khang
 閬縫	lang phang
@@ -5445,6 +5449,8 @@ use_preset_vocabulary: false
 寫生	sia sing
 寫生	sia serng
 寫照	sia ciau
+寫做	sia cue
+寫做	sia co
 捨施	sia si
 捨命	sia mia
 捨身	sia sin
@@ -8080,7 +8086,6 @@ use_preset_vocabulary: false
 毃	khiak8
 鈃	giang1
 齴	giang3
-漳	ciang1	10
 蹌	chiang2
 唱	chiang3
 沖	chiang5
@@ -8098,12 +8103,6 @@ use_preset_vocabulary: false
 勍仔	khiang a
 勥跤	khiang kha
 鈃仔	giang a
-漳州	ciang ciu
-漳州話	ciang ciu uee
-漳州腔	ciang ciu khiunn
-漳北	ciang pak
-漳南	ciang lam
-漳腔	ciang khiunn
 蹌跤	chiang kha
 唱聲	chiang siann
 唱票	chiang phio
@@ -8235,6 +8234,8 @@ use_preset_vocabulary: false
 章	cIang1	10
 彰	cIang1
 漳	cIang1	10
+漳	ciang1	10 
+漳	cing1#泉
 障	cIang1
 樟	cIang1
 漿	cIang1
@@ -8530,7 +8531,17 @@ use_preset_vocabulary: false
 漳腔	cIang khiunn
 漳北	cIang pak
 漳南	cIang lam
-漳州	cing ciu
+漳廈	cIang ha
+漳泉	cIang cuan
+漳州	ciang ciu
+漳州話	ciang ciu uee
+漳州腔	ciang ciu khiunn
+漳腔	ciang khiunn
+漳北	ciang pak
+漳南	ciang lam
+漳廈	ciang ha
+漳泉	ciang cuan
+漳州	cing ciu#泉 
 將來	cIang lai
 將領	cIang nia
 將令	cIang ling
@@ -10596,6 +10607,7 @@ use_preset_vocabulary: false
 泉漳	cuan cIang
 泉漳片	cuan cIang phian
 泉漳話	cuan cIang ue
+泉廈	cuan ha
 全部	cuan poo
 全文	cuan bun
 全然	cuan jian
@@ -14243,10 +14255,14 @@ use_preset_vocabulary: false
 啉藥	lim ioh
 林業	lim giap
 林地	lim tere
-臨時
-臨當時
-臨當臨時
-臨時臨陣
+臨時	lim si
+臨時	liam si
+臨當時	lim tong si
+臨當時	liam tong si
+臨當臨時	lim tong lim si
+臨當臨時	liam tong liam si
+臨時臨陣	lim si lim tin
+臨時臨陣	liam si liam tin
 臨終	lim ciong
 臨危不懼	lim gui put kU
 臨盆	lim phun
@@ -16332,7 +16348,6 @@ use_preset_vocabulary: false
 旌	cing1
 晶	cing1
 正	cing1	10
-漳	cing1
 僧	cing1
 爭	cing1
 眐	cing1
@@ -28854,7 +28869,9 @@ use_preset_vocabulary: false
 不意	put i
 不容	put iong
 不一	put i
-不而過
+不而過	put ji ko
+不而過	put li ko
+不而過	put li koo
 不忍	put jim
 不忍心	put jim sim
 不仁	put jin
