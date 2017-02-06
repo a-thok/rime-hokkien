@@ -65,8 +65,10 @@ speller:
     - derive/ere/ue/
     - derive/uIn?n?/ng/
     - derive/uainn/uinn/
+    - derive/uAinn/uinn/
     - derive/iO/io/
     - derive/(t?sh?)iO/$1o/
+    - derive/U/u/
     - derive/aI/ui/
     - derive/aI/ai/
     - derive/^mue/mui/
