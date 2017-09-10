@@ -1,0 +1,14 @@
+# default.custom.yaml
+# 改對：https://gist.github.com/lotem/2309739#file-default-custom-yaml (by Lotem)
+# 若是欲使用這个輸入法，請共這囥佇：
+#   ~/.config/ibus/rime  (linux - ibus)
+#	~/.config/fcitx/rime (linux - fcitx)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+patch:
+  schema_list:
+    - schema: blg_tai # 臺灣腔
+    - schema: blg_ha # 廈門腔
+	- schema: blg_tsiabg # 漳州腔
+    - schema: blg_tsuan # 泉州腔
