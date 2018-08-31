@@ -33685,7 +33685,7 @@ use_preset_vocabulary: false
 伨	thin7
 這	cit4
 人	lang5
-
+和	ham7
 ####### 非漢源詞 #######
 Hô-ló	ho5 lo2
 
@@ -34010,8 +34010,8 @@ hiunn	hiunn1
 hiu̍nnh	hiunnh8
 hḿ	hm2
 hm̂	hm5
-hmh	hmh4
-hm̍h	hmh8
+hmh4	hmh4
+hmh8	hmh8
 hng	hng1
 hńg	hng2
 hn̂g	hng5
@@ -34106,7 +34106,7 @@ iāng	iang7
 iann	iann1
 iánn	iann2
 iànn	iann3
-iânn	iann5
+iânn	iann5yaml
 iānn	iann7
 iap	iap4
 ia̍p	iap8
@@ -34200,7 +34200,7 @@ jūn	jun7
 ka	ka1
 ká	ka2
 kà	ka3
-kā	ka7
+kā	ka7yaml
 kah	kah4
 kai	kai1
 kái	kai2
@@ -34718,7 +34718,7 @@ n̄g	ng7
 ngá	nga2
 ngāi	ngai7
 ngâu	ngau5
-ngāu	ngau7
+ngāu	ngau7yaml
 ngé	nge2
 ngē	nge7
 ngeh	ngeh4
@@ -34741,6 +34741,7 @@ niā	nia7
 niau	niau1
 niáu	niau2
 nih	nih4
+ni̍h	nih8
 niú	niu2
 niû	niu5
 niū	niu7
@@ -35902,7 +35903,6 @@ un	un1
 ûn	un5
 ūn	un7
 ut	ut4
-
 #方言音等等的需求
 a̋	a9
 a̋m	am9
